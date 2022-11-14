@@ -40,7 +40,6 @@ credentials = {
 
 - GitHub: [@vichuge](https://github.com/vichuge)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/victor-pacheco-7946aab2/)
-- Twitter: [@Pachecofloresv](https://twitter.com/Pachecofloresv)
 
 ## 🤝 Contributing
 Contributions, issues and feature requests are welcome!
